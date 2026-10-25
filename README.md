@@ -133,11 +133,7 @@ Responsive portfolio website designed for showcasing henna art and services.
 
 ---
 
-# 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Namithapoojary847-web&theme=tokyo-night)
-
----
 
 # ✍️ Random Dev Quote
 
