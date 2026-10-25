@@ -129,7 +129,6 @@ Responsive portfolio website designed for showcasing henna art and services.
 
 </p>
 
----
 
 
 ---
