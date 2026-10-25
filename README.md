@@ -131,9 +131,6 @@ Responsive portfolio website designed for showcasing henna art and services.
 
 ---
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Namithapoojary847-web&theme=tokyonight&no-frame=true&margin-w=10)
 
 ---
 
